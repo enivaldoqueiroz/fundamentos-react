@@ -12,10 +12,6 @@ ReactDOM.render(
             titulo="Situação do Aluno"
             subtitulo="Pedro" 
             nota={9.3}/>
-        <ComParametro 
-            titulo="Situação do Aluno"
-            subtitulo="Maria" 
-            nota={6}/>
     </div>, 
     document.getElementById('root')
 )
